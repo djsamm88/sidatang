@@ -424,9 +424,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 		if(ASWP_ADMOB) {
 			MobileAds.initialize(this, ASWV_ADMOB);
+			/*disini tempat iklan
 			AdView asw_ad_view = findViewById(R.id.msw_ad_view);
 			AdRequest adRequest = new AdRequest.Builder().build();
 			asw_ad_view.loadAd(adRequest);
+			 */
 		}
 
         asw_view.setWebChromeClient(new WebChromeClient() {
