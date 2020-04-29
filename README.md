@@ -1,6 +1,6 @@
 <!--
- * Android Smart WebView is an Open Source Project available on GitHub (https://github.com/mgks/Android-SmartWebView).
- * Initially developed by Ghazi Khan (https://github.com/mgks) under MIT Open Source License.
+ * Android Smart WebView is an Open Source Project available on GitHub (https://github.com/pakpak/Android-SmartWebView).
+ * Initially developed by Ghazi Khan (https://github.com/pakpak) under MIT Open Source License.
  * This program is free to use for private and commercial purposes.
  * Please mention project source or developer credit in your Application's License(s) Wiki.
  * Giving right credit to developers encourages them to create better projects :)
@@ -8,15 +8,15 @@
 
 <span align="center" style="text-align:center">
 
-<a href="https://github.com/mgks/Android-SmartWebView/"><img src="https://raw.githubusercontent.com/mgks/Android-SmartWebView/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100"></a>
+<a href="https://github.com/pakpak/Android-SmartWebView/"><img src="https://raw.githubusercontent.com/pakpak/Android-SmartWebView/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100"></a>
 
-[![alt text](https://img.shields.io/badge/variant-java-red.svg)](#config-variables) [![alt text](https://img.shields.io/badge/version-p_%5F0.1-green.svg)](https://github.com/mgks/Android-SmartWebView/releases) [![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mgks/Android-SmartWebView/blob/master/LICENSE)
+[![alt text](https://img.shields.io/badge/variant-java-red.svg)](#config-variables) [![alt text](https://img.shields.io/badge/version-p_%5F0.1-green.svg)](https://github.com/pakpak/Android-SmartWebView/releases) [![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pakpak/Android-SmartWebView/blob/master/LICENSE)
 
 <h1>Android Smart WebView</h1>
 
 </span><span align="center" style="text-align:center">
 
-**[GETTING STARTED](#getting-started) &middot; [WIKI](https://github.com/mgks/Android-SmartWebView/wiki) &middot; [DOCUMENTATION](https://github.com/mgks/Android-SmartWebView/tree/master/documentation) &middot; [ISSUES](https://github.com/mgks/Android-SmartWebView/issues)**
+**[GETTING STARTED](#getting-started) &middot; [WIKI](https://github.com/pakpak/Android-SmartWebView/wiki) &middot; [DOCUMENTATION](https://github.com/pakpak/Android-SmartWebView/tree/master/documentation) &middot; [ISSUES](https://github.com/pakpak/Android-SmartWebView/issues)**
 
 </span>
 
@@ -24,7 +24,7 @@ SWV is a framework built on Java to develop advanced hybrid webview applications
 
 A small build with features working out of the box: Live GPS Location, Notifications with FCM, AdMob, Chrome Tabs, Process Camera Input, Upload/Download Files, Custom Rating System, Multiple User Interfaces and more.
 
-**For kotlin variant, see: [Kotlin Smart WebView](https://github.com/mgks/Kotlin-SmartWebView)**
+**For kotlin variant, see: [Kotlin Smart WebView](https://github.com/pakpak/Kotlin-SmartWebView)**
 
 ## Table of Contents
 
@@ -65,7 +65,7 @@ Project was built on Android Studio and requires minimum Android API 21+ (5.0 Lo
 
 1. Download repo or just clone it
 
-   `git clone https://github.com/mgks/Android-SmartWebView`
+   `git clone https://github.com/pakpak/Android-SmartWebView`
 
 2. Load project in Android Studio
 
@@ -81,7 +81,7 @@ Project was built on Android Studio and requires minimum Android API 21+ (5.0 Lo
 
 ## Configurations
 
-For more detailed config, check project [Documentation](https://github.com/mgks/Android-SmartWebView/tree/master/documentation).
+For more detailed config, check project [Documentation](https://github.com/pakpak/Android-SmartWebView/tree/master/documentation).
 
 ### Device Permissions
 
@@ -114,14 +114,14 @@ hardware.touchscreen
 Complete webpage URL or load local file as `file:///android_res/dir/file.html`
 
 ```kotlin
-ASWV_URL   = "https://github.com/mgks"   // domain or directory or address to any root file
+ASWV_URL   = "https://github.com/pakpak"   // domain or directory or address to any root file
 ```
 
 ### Permission Variables
 
 ```kotlin
 ASWP_JSCRIPT     = true     // enable JavaScript for webview
-ASWP_FUPLOAD     = true     // upload files from local device 
+ASWP_FUPLOAD     = true     // upload files from local device
 ASWP_MULFILE     = true     // upload multiple files
 ASWP_CAMUPLOAD   = true     // enable camera file upload
 ASWP_ONLYCAM     = false    // incase you want only camera for input files
@@ -256,11 +256,11 @@ If you want to contribute to the project, you're most welcome to do so. Just:
 
 <a href="https://ko-fi.com/Z8Z4BPQ6" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
 
-Even your tiniest contribution will be appreciated. 
+Even your tiniest contribution will be appreciated.
 
 **PROVIDE FEEDBACK:** Donations help us run things but feedback helps us learn new things and understand you better. Without an honest feedback no good project is possible and your valuable feedbacks are always welcome: just drop an [email](mailto:getmgks@gmail.com).
 
-Report your [issues](https://github.com/mgks/Android-SmartWebView/issues) here.
+Report your [issues](https://github.com/pakpak/Android-SmartWebView/issues) here.
 
 
 ## License
@@ -272,12 +272,12 @@ This project is published under the MIT License - see [LICENSE.md](LICENSE.md) f
 
 - Rating method [Android-Rate](https://github.com/hotchemi/Android-Rate) is developed by [hotchemi](https://github.com/hotchemi)
 
-Thanks to other [contributers](https://github.com/mgks/Android-SmartWebView/graphs/contributors) who helped make this project amazing.
+Thanks to other [contributers](https://github.com/pakpak/Android-SmartWebView/graphs/contributors) who helped make this project amazing.
 
 ## Contact
 
-This project was initially developed by **[Ghazi Khan](https://github.com/mgks)**, but coming this far wouldn't be possible without the people who contributed to this project.
+This project was initially developed by **[Ghazi Khan](https://github.com/pakpak)**, but coming this far wouldn't be possible without the people who contributed to this project.
 
 **A personal note:** `You all must keep up with programming. It's sometimes difficult and sometimes easy but fun afterall, you can create your own world with programming and that's the beauty of it. So, all the best for your next creation.`
 
-[![Profile](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/mgks)
+[![Profile](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/pakpak)

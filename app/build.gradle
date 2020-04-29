@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion '29.0.2'
     defaultConfig {
-        applicationId 'mgks.os.webview'
+        applicationId 'pakpak.com.webview'
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 2
